@@ -14,7 +14,7 @@ description:      "From pipelines to courtrooms to prisons, building strong move
 url:              https://antirepressioncrew.org
 baseurl:          /
 
-paginate:         5
+paginate:         20
 
 # Custom vars
 version:          1.0.1
