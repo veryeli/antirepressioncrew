@@ -14,3 +14,5 @@ This zine accompanies our two-hour workshop, which open to all who have particip
 The fight isn’t over at Standing Rock, as nearly 800 Water Protectors continue their battles in the courtrooms with some facing federal felony indictments that carry a potential of 15 years in federal prison. The grand jury convened against water protectors continues, as does the resistance to it. Strong movements and interdependent relationships make us resilient against attempts to shut down our struggle.
 
 Join us in strategizing ways to defend our movements together!
+
+![poster](https://raw.githubusercontent.com/eliawry/antirepressioncrew/master/public/images/GJTourPoster.jpg)
