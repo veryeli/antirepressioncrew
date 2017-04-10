@@ -11,8 +11,8 @@ permalink:        pretty
 title:            "Water Protector Anti-Repression Crew"
 tagline:          "The Frontlines are Everywhere"
 description:      "From pipelines to courtrooms to prisons, building strong movement defense."
-url:              /
-baseurl:          https://eliawry.github.io/antirepressioncrew/
+url:              https://eliawry.github.io
+baseurl:          /antirepressioncrew
 
 paginate:         20
 
