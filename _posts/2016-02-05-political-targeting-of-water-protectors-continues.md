@@ -20,3 +20,5 @@ Moira Meltzer-Cohen stated, “It’s critical for people who are active in soci
 Water Protectors who are contacted by law enforcement or served a subpoena are encouraged to contact the Water Protector Legal Collective for advice and representation.
 
 Water Protector Legal Collective (WPLC) provides on-the-ground legal representation and coordination for Water Protectors engaged in resistance to the Dakota Access Pipeline at Standing Rock, ND in partnership with the National Lawyers Guild (NLG). To support this work, please visit https://fundrazr.com/RedOwlLegal.
+
+![staystrong](https://raw.githubusercontent.com/eliawry/antirepressioncrew/master/public/images/keepstrong.jpg)
