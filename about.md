@@ -3,16 +3,14 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hi there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### From pipelines to courtrooms to prisons, building strong movement defense.
 
-## About BlackDoc Theme
+This Spring, NoDAPL Water Protectors and legal team members are facilitating trainings across Turtle Island sharing knowledge about resistance to the grand jury convened against water protectors at Standing Rock. We want to build our capacities for strong movement defense against state repression.
 
-Some relevant information about this project:
+As extraction becomes the norm and the government ramps up its repression against those who stand in resistance, this workshop holds valuable information for those who struggle for Indigenous sovereignty, earth liberation and a future without oppression.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Theme based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme
-* Ideal for sites requiring master-detail layout such as documentation, cheatsheets, lyrics, notes, etc.
-* Need a beautiful color scheme for black background? Then you will love BlackDoc theme.
+This zine accompanies our two-hour workshop, which open to all who have participated in the movement at Standing Rock; those who have supported the efforts on the ground from their homes and territories elsewhere; as well as all those who wish to continue fighting on the many frontlines that continue emerging across Turtle Island.
 
+The fight isn’t over at Standing Rock, as nearly 800 Water Protectors continue their battles in the courtrooms with some facing federal felony indictments that carry a potential of 15 years in federal prison. The grand jury convened against water protectors continues, as does the resistance to it. Strong movements and interdependent relationships make us resilient against attempts to shut down our struggle.
+
+Join us in strategizing ways to defend our movements together!
