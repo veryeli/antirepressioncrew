@@ -28,7 +28,9 @@
 
       {% assign post_list = site.posts %}
       {% for node in post_list %}
+      {% if node.layout == "post" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url  | remove_first: '/' }}">{{ node.title }}</a>
+            {% endif %}
       {% endfor %}
 
     </nav>
