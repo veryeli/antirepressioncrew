@@ -14,4 +14,4 @@ We stand for the water and each other. We protect with loud voices on the front 
 
 Mni Wiconi! Black snake killaz! Grand jury killaz!
 
-
+![resist](https://raw.githubusercontent.com/eliawry/antirepressioncrew/master/public/images/resist-grand-juries-sitting-bull-nodapl.jpg)
