@@ -15,7 +15,8 @@ The fight isn’t over at Standing Rock, as nearly 800 Water Protectors continue
 
 Join us in strategizing ways to defend our movements together!
 
-![poster](https://raw.githubusercontent.com/eliawry/antirepressioncrew/master/public/images/GJTourPoster.jpg)[^poster]
+![poster](https://raw.githubusercontent.com/eliawry/antirepressioncrew/master/public/images/GJTourPoster.jpg)
+<p style="font-size:10px;"> Image credit: Klee Benally (IndigenousAction.org) </p>
 
 # Tour Dates
 
@@ -57,5 +58,3 @@ Contact us at WPantirepression@protonmail.com for event details
 ### April 26th: Idaho: TBA
 
 ### April 28th: Montana: TBA
-
-[^poster]: Klee Benally (IndigenousAction.org)

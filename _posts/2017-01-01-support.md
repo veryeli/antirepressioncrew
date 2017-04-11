@@ -3,6 +3,7 @@ layout: page
 title: Support
 ---
 ![support](https://raw.githubusercontent.com/eliawry/antirepressioncrew/master/public/images/support.jpg)
+<p style="font-size:10px;"> Image credit: Rob Wilson Photography </p>
 
 ### Red Fawn Fallis
 

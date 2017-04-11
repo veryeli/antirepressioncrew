@@ -13,6 +13,7 @@ Grand juries have, both historically and currently, been used to target activist
 Water protectors are standing in resistance to this grand jury and all tools of state repression, be it on the ground through Morton County’s violent tactics or in the shrouded secrecy of a grand jury courtroom.
 
 ![cametofight](https://raw.githubusercontent.com/eliawry/antirepressioncrew/master/public/images/Allard-quote_bk_524.jpg)
+<p style="font-size:10px;"> Image credit: Jackie Fawn Illustrations </p>
 
 At 12:30pm on January 4th, Water Protectors will stand in solidarity with Steve Martinez as he resists this grand jury and the repression of the movement. People will rally outside the U.S. District Courthouse in Bismarck, North Dakota located at 220 E. Rosser Ave.
 

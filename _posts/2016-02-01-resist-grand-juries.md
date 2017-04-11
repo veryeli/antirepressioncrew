@@ -5,6 +5,7 @@ title: Resist Grand Juries
 
 ## For the water. For each other.
 ![resist](https://raw.githubusercontent.com/eliawry/antirepressioncrew/master/public/images/resist-grand-juries-sitting-bull-nodapl.jpg)
+<p style="font-size:10px;"> Image credit: Klee Benally </p>
 
 Since early December we have worked along side Steve Martinez in his personal efforts and the efforts of Water Protectors to resist the grand jury to which Steve was subpoenaed. On Monday evening, with no explanation, the U.S. Attorney withdrew the subpoena that the federal government had issued to Steve. Today, we are rallied together at the federal courthouse in both celebration of Steve’s continued freedom, which the grand jury had threatened, but we also continue our stand against this grand jury and its targeting of Water Protectors at Standing Rock.
 

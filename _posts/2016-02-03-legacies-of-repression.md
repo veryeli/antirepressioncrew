@@ -9,7 +9,8 @@ Repression is the State’s method of protecting itself and its authority from p
 
 Because they challenge the status quo, movements for progressive and radical social change have always faced political repression from the State. In particular we will be sharing histories of Indigenous movements and environmental/earth liberation movements that have been targeted for repression over the previous half century. Understanding this history can help us learn how to fight back and resist!
 
-![repression](https://raw.githubusercontent.com/eliawry/antirepressioncrew/master/public/images/repression.jpg)[^repression]
+![repression](https://raw.githubusercontent.com/eliawry/antirepressioncrew/master/public/images/repression.jpg)
+<p style="font-size:10px;"> Image credit: Rob Wilson Photography </p>
 
 ## “Disrupt, Misdirect, Discredit, and Neutralize”: COINTELPRO Versus the American Indian Movement
 
@@ -62,4 +63,3 @@ In a country built on colonialism, genocide, and the commercial exploitation of 
 At Standing Rock there has been a coming together of people from Indigenous communities and movements for liberation alongside those who are engaged in movements for the protection and liberation of the Earth. This coalescing resistance is powerful. This powerful resistance is a threat to colonialism, genocide and the commercial exploitation of the earth. There are, at the time of writing, nearly 800 Water Protectors facing criminal charges, six Indigenous warriors facing federal felony charges and a grand jury convened to investigate the activities and connections of those who have resisted the Dakota Access Pipeline. While this can certainly feel overwhelming, we are all standing on a rich and vibrant history of resistance to state repression! Our ancestors stand with us as well.
 
 Our solidarity is stronger than their repression; we can fight back and we can win!
-[^repression]: Jackie Fawn Illustrations

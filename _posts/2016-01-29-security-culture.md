@@ -28,6 +28,7 @@ Common ways that people break this aspect of security culture include:
 There are other related aspects of security culture as well.
 
 ![security](https://raw.githubusercontent.com/eliawry/antirepressioncrew/master/public/images/security-culture.jpg)
+<p style="font-size:10px;"> Image credit: Rob Wilson Photography </p>
 
 __Do not talk to law enforcement or cooperate with their investigations. Ever.__
 Cops never qualify as need-to-know. Everything you say to law enforcement will be misquoted, pulled out of context, and used against you and others. Nothing you say to them can help you. Often people feel that they have nothing to hide from the police or the state. Everyone has something to hide, because the cops are gathering intelligence and mapping communities. Cops lie routinely. The only three things out of your mouth should be: *“I’m going to remain silent. I want to speak to a lawyer. I do not consent to a search.”*
