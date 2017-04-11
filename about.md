@@ -1,7 +1,9 @@
 ---
 layout: page
-title: The Frontlines are Everywhere
+title: About
 ---
+
+# The Frontlines are Everywhere!
 
 ## From pipelines to courtrooms to prisons, building strong movement defense.
 
