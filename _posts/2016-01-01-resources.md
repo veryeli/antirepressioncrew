@@ -38,9 +38,9 @@ title: Further Resources List
 
 ·         Youtube video “Shit the FBI Says”**
 
-·         “If an Agent Knocks” by the Center for Constitutional Rights**
+·         [“If an Agent Knocks” by the Center for Constitutional Rights](https://ccrjustice.org/sites/default/files/assets/files/CCR_If_An_Agent_Knocks.pdf)
 
-·         www.grandjuryresistance.org
+·         [Grand Jury Resisitance](www.grandjuryresistance.org)
 
 ·         “The Improper Use of the Federal Grand Jury: An Instrument for the Internment of Political Activists,” Michael Deutsch, Journal of Criminal Law & Criminology, Vol. 75, Pg. 1159 (1984).
 ·   https://saynothing.noblogs.org/grand-jury-resources/
