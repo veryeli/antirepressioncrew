@@ -9,6 +9,8 @@ Repression is the State’s method of protecting itself and its authority from p
 
 Because they challenge the status quo, movements for progressive and radical social change have always faced political repression from the State. In particular we will be sharing histories of Indigenous movements and environmental/earth liberation movements that have been targeted for repression over the previous half century. Understanding this history can help us learn how to fight back and resist!
 
+![repression](https://raw.githubusercontent.com/eliawry/antirepressioncrew/master/public/images/repression.jpg)
+
 “Disrupt, Misdirect, Discredit, and Neutralize”: COINTELPRO Versus the American Indian Movement
 
 In many ways, state repression of Indigenous movements is inseparable from and pales in comparison to the larger projects of colonization and genocide against Indigenous communities. But in modern times, repression is the State’s preferred weapon against the communities, movements, and people who dare to organize resistance to that colonization and genocide.
