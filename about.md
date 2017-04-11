@@ -59,25 +59,3 @@ Contact us at WPantirepression@protonmail.com for event details
 ### April 26th: Idaho: TBA
 
 ### April 28th: Montana: TBA
-
-### April 13th - Tucson, AZ - Location TBA
-
-### April 15th - Phoenix, AZ
-Want to host? Email WPAntiRepression@protonmail.com
-
-### April 16th - Los Angeles, CA
-Want to host? Email WPAntiRepression@protonmail.com
-
-### April 17th - Santa Cruz, CA
-Want to host? Email WPAntiRepression@protonmail.com
-
-### April 18th - Bay Area - Location TBA
-
-### April 20th - Eugene, OR
-Want to host? Email WPAntiRepression@protonmail.com
-
-### April 22nd - Olympia, WA - Rising S.P.R.I.N.G. Convergence
-
-### April 23rd - Central Washington TBA
-
-### April 24th - Seattle, WA - Location TBA
