@@ -3,7 +3,6 @@ layout: post
 title: Political Targeting of Water Protectors Continues
 ---
 
-
 ### Water Protector Legal Collective - February 28, 2017
 _BISMARCK, ND_: A federal grand jury subpoena issued to Water Protector Steve Martinez was withdrawn yesterday, without warning or explanation. Mr. Martinez had been summoned to appear on Wednesday March 1, as a witness before a grand jury in Bismarck, ND. The putative subject of the investigation is the November 20 incident on Backwater Bridge, and in particular, the injury to Sophia Wilansky, who nearly lost her arm from being struck at close range by a law enforcement projectile.
 
