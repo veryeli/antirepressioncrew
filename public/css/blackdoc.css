@@ -195,6 +195,10 @@ tbody tr:nth-child(odd) th {
 .sidebar a {
   color: #6a6a99;
 }
+.sidebar img {
+  max-height: 200px;
+  margin: auto;
+}
 .sidebar h3 {
   color: #6a6a99;
 }
@@ -246,7 +250,14 @@ a.sidebar-nav-item:focus {
     left:   1rem;
   }
 }
-
+.links {
+    display: none;
+}
+@media (min-width: 48em) {
+  .links {
+    display: block;
+  }
+}
 
 /* Container
  *
