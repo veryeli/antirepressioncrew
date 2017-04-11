@@ -195,6 +195,9 @@ tbody tr:nth-child(odd) th {
 .sidebar a {
   color: #6a6a99;
 }
+.sidebar h3 {
+  color: #6a6a99;
+}
 
 /* About section */
 .sidebar-about h1 {
@@ -219,6 +222,14 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+}
+
+.sidebar-nav-item-small {
+  line-height: 1.2;
+  font-size: 14px;
+}
+.sidebar-nav-item.sidebar-nav-item-small a {
+  color: #6a6a99;
 }
 
 /* Sticky sidebar

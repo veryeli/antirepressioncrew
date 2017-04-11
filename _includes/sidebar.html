@@ -1,11 +1,13 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
+
     <div class="sidebar-about">
-      <h1>
+    <img src="{{ site.baseurl }}public/images/resist.jpg"/>
+      <h2>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
-      </h1>
+      </h2>
       <p class="lead">{{ site.description }}</p>
     </div>
 
@@ -26,10 +28,11 @@
         {% endif %}
       {% endfor %}
 
+      <h3> Tour Zine </h3>
       {% assign post_list = site.posts %}
       {% for node in post_list %}
       {% if node.layout == "post" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url  | remove_first: '/' }}">{{ node.title }}</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %} sidebar-nav-item-small" href="{{ site.baseurl }}{{ node.url  | remove_first: '/' }}">{{ node.title }}</a>
             {% endif %}
       {% endfor %}
 
