@@ -3,13 +3,13 @@ layout: post
 title: Further Resources List
 ---
 
-·         Life During War Time: Resisting Counterinsurgency, Kristian Williams, et al, eds., AK Press (2013)
+·         [Life During War Time: Resisting Counterinsurgency, Kristian Williams, et al, eds., AK Press (2013)](https://www.akpress.org/life-during-wartime.html)
 
-·         Beyond Bullets: The Suppression of Dissent in the United States, Jules Boykoff, AK Press (2007)
+·         [Beyond Bullets: The Suppression of Dissent in the United States, Jules Boykoff, AK Press (2007)](https://www.akpress.org/beyondbulletsakpress.html)
 
-·          Agents of Repression, Ward Churchill and Jim Vander Wall, South End Press (1988)
+·          [Agents of Repression, Ward Churchill and Jim Vander Wall, South End Press (1988)](https://en.wikipedia.org/wiki/Agents_of_Repression)
 
-·         War at Home: Covert Action Against US Activists and What We Can Do About It, Brian Glick (1999) **
+·         [War at Home: Covert Action Against US Activists and What We Can Do About It, Brian Glick (1999)](https://archive.org/stream/War_At_Home/War_At_Home_djvu.txt)
 
 ·         Green is the New Red: An Insider’s Account of a Social Movement Under Siege, Will Potter, City Lights (2011)
 
