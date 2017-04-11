@@ -32,11 +32,11 @@ title: Further Resources List
 
 ·         Crashing the Party: Legacies and Lessons from the RNC 2000, Kris Hermes, PM Press (2015)
 
-·         “Anarchist Survival Guide for Understanding Gestapo Swine Interrogation Mind Games: Staying Free by Shutting the Fuck Up!” by Harold H. Thompson**
+·         “[Anarchist Survival Guide for Understanding Gestapo Swine Interrogation Mind Games: Staying Free by Shutting the Fuck Up!](https://cernorudaprirucka.noblogs.org/files/2015/11/anarchist_surival_guide.pdf)” by Harold H. Thompson
 
-·         Youtube video “Why You Should Never Talk to Police,” by James Duane
+·         "[Why You Should Never Talk to Police](https://www.youtube.com/watch?v=Au4_EdPwTkE)"" by James Duane
 
-·         Youtube video “Shit the FBI Says”**
+·         [Shit the FBI Says](https://www.youtube.com/watch?v=rI8INgw0xq0)
 
 ·         [“If an Agent Knocks” by the Center for Constitutional Rights](https://ccrjustice.org/sites/default/files/assets/files/CCR_If_An_Agent_Knocks.pdf)
 
