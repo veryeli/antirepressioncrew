@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tour Dates
+title: The Frontlines are Everywhere Tour Dates
 ---
 
 _Please contact wpantirepression@protonmail.com if you’d like to host a workshop in your territory or community!_
