@@ -11,7 +11,7 @@ Because they challenge the status quo, movements for progressive and radical soc
 
 ![repression](https://raw.githubusercontent.com/eliawry/antirepressioncrew/master/public/images/repression.jpg)
 
-“Disrupt, Misdirect, Discredit, and Neutralize”: COINTELPRO Versus the American Indian Movement
+## “Disrupt, Misdirect, Discredit, and Neutralize”: COINTELPRO Versus the American Indian Movement
 
 In many ways, state repression of Indigenous movements is inseparable from and pales in comparison to the larger projects of colonization and genocide against Indigenous communities. But in modern times, repression is the State’s preferred weapon against the communities, movements, and people who dare to organize resistance to that colonization and genocide.
 
@@ -38,7 +38,7 @@ This repression didn’t end in the 1970s. In 2002, Colorado AIM leader Glenn Mo
 For additional information on the FBI’s campaign to destroy the American Indian Movement, one of the best books on the subject is Agents of Repression by Ward Churchill and Jim Vander Wall.
 
 
-“The Green Scare”: Repression of the Environmental and Earth Liberation Movements
+## “The Green Scare”: Repression of the Environmental and Earth Liberation Movements
 
 Since environmental movements emerged several decades ago, companies seeking to protect profits and investments, along with the governments that exist to protect them, have always sought to undermine these movements. This repression has reached new levels since the FBI declared in 2005 that environmental, earth liberation, and animal rights movements were the “no. 1 domestic terrorism threat” in the United States. Never mind that environmental groups had never hurt or killed anyone, or that right-wing and fascist groups, by comparison, had killed hundreds over the previous decade. The underlying message was clear: corporate profits took priority over human lives, and movements which may curtail those profits in the name of the earth must be criminalized, disrupted, and destroyed.
 
@@ -55,7 +55,7 @@ Infiltration and surveillance of environmental movements has become almost routi
 One of the best books with more information about the “Green Scare” is Green is the New Red by Will Potter.
 
 
-Conclusion
+## Conclusion
 
 In a country built on colonialism, genocide, and the commercial exploitation of the earth, it should be little surprise that the State seeks to repress and destroy movements that dare to resist this oblivion. The history of this repression is often disturbing and distressing to many—that’s part of the point; fear encourages people to stay home, stay in line, and not speak up. But understanding this history gives us better tools to effectively stand up together and struggle for a future that is free of these oppressive legacies.
 
