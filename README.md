@@ -5,7 +5,7 @@
 Download the zip file or clone the BlackDoc repo.
 
 ```bash
-$ git clone git@github.com:karloespiritu/BlackDoc.git mysite
+$ git clone git@github.com:veryeli/antirepressioncrew.git antirepressioncrew
 $ cd mysite
 ```
 Make sure you have Ruby 2.0.0 or higher installed.
